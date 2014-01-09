@@ -1,4 +1,4 @@
-package org.springside.examples.quickservice.web;
+package org.springside.examples.quickservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
@@ -10,9 +10,9 @@ import org.springframework.context.annotation.Configuration;
 @EnableAutoConfiguration
 @EnableConfigurationProperties
 @ComponentScan
-public class SampleApplication {
+public class QuickServiceApplication {
 
 	public static void main(String[] args) throws Exception {
-		SpringApplication.run(SampleApplication.class, args);
+		SpringApplication.run(QuickServiceApplication.class, args);
 	}
 }
