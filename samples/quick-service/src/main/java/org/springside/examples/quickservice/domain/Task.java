@@ -6,6 +6,7 @@ import javax.persistence.ManyToOne;
 import javax.persistence.Table;
 
 import org.hibernate.validator.constraints.NotBlank;
+import org.springside.examples.quickservice.domain.support.IdEntity;
 
 // JPA实体类标识
 @Entity
@@ -15,7 +16,7 @@ public class Task extends IdEntity {
 	private String description;
 	private User user;
 
-	// BeanValidator的校验规则
+	// Bean Validator的校验规则
 	@NotBlank
 	public String getTitle() {
 		return title;

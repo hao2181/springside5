@@ -15,10 +15,7 @@
 	<name>Springside :: Example :: Quick Service</name>
 
 	<properties>
-		<guava.version>15.0</guava.version>
-
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<jdk.version>1.6</jdk.version>
 	</properties>
 
 	<dependencies>
@@ -44,7 +41,7 @@
 		<dependency>
 			<groupId>com.google.guava</groupId>
 			<artifactId>guava</artifactId>
-			<version>${guava.version}</version>
+			<version>15.0</version>
 		</dependency>
 
 		<dependency>

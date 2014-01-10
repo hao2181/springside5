@@ -1,4 +1,4 @@
-package org.springside.examples.quickservice.domain;
+package org.springside.examples.quickservice.domain.support;
 
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
