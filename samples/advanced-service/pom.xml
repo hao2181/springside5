@@ -9,7 +9,7 @@
 	</parent>
 
 	<groupId>org.springside.samples</groupId>
-	<artifactId>advanced-service</artifactId>
+	<artifactId>springside5-advanced-service</artifactId>
 	<version>5.0.0-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>Springside :: Example :: Advanced Service</name>

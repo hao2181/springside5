@@ -9,8 +9,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 import org.springside.examples.quickservice.domain.Task;
-import org.springside.examples.quickservice.rest.support.MediaTypes;
 import org.springside.examples.quickservice.service.TaskService;
+import org.springside.modules.web.MediaTypes;
 
 @RestController
 @RequestMapping(value = "/task")

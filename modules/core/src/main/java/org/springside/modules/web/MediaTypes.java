@@ -1,4 +1,4 @@
-package org.springside.examples.quickservice.rest.support;
+package org.springside.modules.web;
 
 /**
  * 带UTF-8 charset 定义的MediaType.

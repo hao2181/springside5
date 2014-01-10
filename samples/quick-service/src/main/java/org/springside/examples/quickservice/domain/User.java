@@ -7,7 +7,7 @@ import javax.persistence.Table;
 
 import org.apache.commons.lang3.builder.ToStringBuilder;
 import org.hibernate.validator.constraints.NotBlank;
-import org.springside.examples.quickservice.domain.support.IdEntity;
+import org.springside.modules.domain.IdEntity;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 
