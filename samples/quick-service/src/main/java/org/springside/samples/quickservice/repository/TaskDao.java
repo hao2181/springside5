@@ -1,7 +1,7 @@
-package org.springside.examples.quickservice.repository;
+package org.springside.samples.quickservice.repository;
 
 import org.springframework.data.repository.CrudRepository;
-import org.springside.examples.quickservice.domain.Task;
+import org.springside.samples.quickservice.domain.Task;
 
 public interface TaskDao extends CrudRepository<Task, Long> {
 }

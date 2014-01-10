@@ -1,12 +1,12 @@
-package org.springside.examples.quickservice.service;
+package org.springside.samples.quickservice.service;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import org.springframework.transaction.annotation.Transactional;
-import org.springside.examples.quickservice.domain.Task;
-import org.springside.examples.quickservice.repository.TaskDao;
+import org.springside.samples.quickservice.domain.Task;
+import org.springside.samples.quickservice.repository.TaskDao;
 
 //Spring Bean的标识.
 @Component

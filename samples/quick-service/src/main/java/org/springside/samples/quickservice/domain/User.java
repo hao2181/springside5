@@ -1,4 +1,4 @@
-package org.springside.examples.quickservice.domain;
+package org.springside.samples.quickservice.domain;
 
 import java.util.Date;
 

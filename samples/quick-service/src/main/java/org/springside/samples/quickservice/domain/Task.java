@@ -1,4 +1,4 @@
-package org.springside.examples.quickservice.domain;
+package org.springside.samples.quickservice.domain;
 
 import javax.persistence.Entity;
 import javax.persistence.JoinColumn;

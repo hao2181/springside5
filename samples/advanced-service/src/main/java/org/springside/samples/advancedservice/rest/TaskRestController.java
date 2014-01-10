@@ -1,4 +1,4 @@
-package org.springside.examples.quickservice.rest;
+package org.springside.samples.advancedservice.rest;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
